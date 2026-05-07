@@ -16,82 +16,77 @@
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
-I am a hardworking and detail-oriented **Full Stack Developer** with a bachelor's degree in **Computer Science**. I build responsive, scalable web applications using **React**, **Laravel**, **Node.js**, and **MySQL**.
+<p align="center">
+I am a hardworking and detail-oriented <strong>Full Stack Developer</strong> with a bachelor's degree in <strong>Computer Science</strong>. I build responsive, scalable web applications using <strong>React</strong>, <strong>Laravel</strong>, <strong>Node.js</strong>, and <strong>MySQL</strong>.
+</p>
 
-My background in **Photoshop** and **Adobe XD** helps me bridge development and design, turning ideas into clean, polished, user-friendly interfaces.
+<p align="center">
+My background in <strong>Photoshop</strong> and <strong>Adobe XD</strong> helps me bridge development and design, turning ideas into clean, polished, user-friendly interfaces.
+</p>
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 | Frontend | Backend | Database | Creative & Tools |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> | <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" /> |
 | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> | <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" /> |
 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> | <img src="https://img.shields.io/badge/API%20Development-181717?style=for-the-badge" alt="API Development" /> | <img src="https://img.shields.io/badge/Database%20Design-00618A?style=for-the-badge" alt="Database Design" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
 
 ---
 
-## Portfolio Highlights
+<h2 align="center">Portfolio Highlights</h2>
 
-<table>
+<div align="center">
+<table align="center">
   <tr>
-    <td width="50%">
+    <td width="33%" align="center">
       <img src="images/website1.png" width="100%" alt="Microlibi project preview" />
       <h3 align="center">Microlibi</h3>
-      <p align="center">Service marketplace website with responsive layouts for desktop, tablet, and mobile.</p>
     </td>
-    <td width="50%">
+    <td width="33%" align="center">
       <img src="images/website2.png" width="100%" alt="Egyptian Board Academy project preview" />
       <h3 align="center">Egyptian Board Academy</h3>
-      <p align="center">Training academy platform with a polished landing experience and multi-device design.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="33%" align="center">
       <img src="images/website3.png" width="100%" alt="Egypt Merveilleuse project preview" />
       <h3 align="center">Egypt Merveilleuse</h3>
-      <p align="center">Tourism website focused on travel discovery, customer reviews, and clean presentation.</p>
-    </td>
-    <td width="50%">
-      <img src="images/website4.png" width="100%" alt="Medex Lab project preview" />
-      <h3 align="center">Medex Lab</h3>
-      <p align="center">Medical laboratory website with Arabic content, service sections, and responsive pages.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="images/website5.png" width="100%" alt="X Power Wear project preview" />
-      <h3 align="center">X Power Wear</h3>
-      <p align="center">E-commerce fashion website with product categories, campaigns, and mobile-first shopping UI.</p>
-    </td>
-    <td width="50%" align="center">
-      <br><br>
-      <h3>More Work Coming Soon</h3>
-      <p>New projects, case studies, and UI previews will be added here.</p>
     </td>
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="images/website5.png" width="100%" alt="X Power Wear project preview" />
+      <h3 align="center">X Power Wear</h3>
+    </td>
+    <td width="50%" align="center">
+      <img src="images/website4.png" width="100%" alt="Medex Lab project preview" />
+      <h3 align="center">Medex Lab</h3>
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
-## GitHub Activity
+<h2 align="center">GitHub Activity</h2>
 
+<br><br>
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asm2a-E2sam&theme=radical&hide_border=true" alt="GitHub streak stats" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Asm2a-E2sam&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
 
 </div>
 
 ---
 
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
