@@ -44,20 +44,16 @@ My background in <strong>Photoshop</strong> and <strong>Adobe XD</strong> helps 
 
 <h2 align="center">Portfolio Highlights</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 900px; margin: 0 auto;">
-  <div style="text-align: center;">
-    <img src="images/website1.png" width="100%" style="height: auto;" alt="Microlibi project preview" />
-  </div>
-  <div style="text-align: center;">
-    <img src="images/website2.png" width="100%" style="height: auto;" alt="Egyptian Board Academy project preview" />
-  </div>
-  <div style="text-align: center;">
-    <img src="images/website3.png" width="100%" style="height: auto;" alt="Egypt Merveilleuse project preview" />
-  </div>
-  <div style="text-align: center;">
-    <img src="images/website5.png" width="100%" style="height: auto;" alt="X Power Wear project preview" />
-  </div>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%"><img src="images/website1.png" width="100%" alt="Project 1 preview" /></td>
+    <td width="50%"><img src="images/website2.png" width="100%" alt="Project 2 preview" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="images/website4.png" width="100%" alt="Project 3 preview" /></td>
+    <td width="50%"><img src="images/website5.png" width="100%" alt="Project 4 preview" /></td>
+  </tr>
+</table>
 
 ---
 
