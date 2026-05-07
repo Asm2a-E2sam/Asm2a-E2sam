@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-[cite_start]A hardworking and precise **Full Stack Developer** [cite: 4] [cite_start]with a bachelor's degree in **Computer Science**[cite: 22]. [cite_start]I specialize in crafting efficient web solutions using **MERN** and **Laravel**[cite: 4, 30]. [cite_start]My design background in **Photoshop** and **Adobe XD** allows me to build interfaces that aren't just functional, but beautiful[cite: 5, 71].
+A hardworking and precise **Full Stack Developer** with a bachelor's degree in **Computer Science**. I specialize in crafting efficient web solutions using **MERN** and **Laravel**. My design background in **Photoshop** and **Adobe XD** allows me to build interfaces that aren't just functional, but beautiful.
 
 ---
 
