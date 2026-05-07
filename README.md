@@ -9,7 +9,6 @@
 <p>
   <img src="https://img.shields.io/badge/Language-Arabic%20%26%20English-00D1FF?style=for-the-badge" alt="Arabic and English" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web-FF61F6?style=for-the-badge" alt="Full stack web" />
-  <img src="https://img.shields.io/badge/Based%20in-Oman-2ecc71?style=for-the-badge" alt="Based in Oman" />
 </p>
 
 </div>
